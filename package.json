@@ -10,8 +10,7 @@
     "url": "https://github.com/sammaro/sb-components.git"
   },
   "peerDependencies": {
-    "react": ">=18",
-    "typescript": ">=4.0.0"
+    "react": ">=18"
   },
   "release": {
     "branches": [
