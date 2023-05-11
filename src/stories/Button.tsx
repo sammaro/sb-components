@@ -1,4 +1,3 @@
-import React from 'react';
 import './button.css';
 
 interface ButtonProps {
@@ -46,3 +45,5 @@ export const Button = ({
     </button>
   );
 };
+
+export default Button;
