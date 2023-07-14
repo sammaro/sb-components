@@ -1,4 +1,4 @@
-[![CI](https://github.com/sammaro/mso-product-card/actions/workflows/main.yml/badge.svg)](https://github.com/sammaro/mso-product-card/actions/workflows/main.yml)
+[![CI](https://github.com/sammaro/sb-components/actions/workflows/main.yml/badge.svg)](https://github.com/sammaro/sb-components/actions/workflows/main.yml)
 
 <p align="center">
   <h1 align="center">mso-my-storybook-components</h1>
@@ -10,8 +10,11 @@
     <img alt="Sammaro's sb-components repo size"         src="https://img.shields.io/github/repo-size/sammaro/sb-components" />
     <img alt="Sammaro's sb-components top language used" src="https://img.shields.io/github/languages/top/sammaro/sb-components" />
     <br />
-    <img alt="Sammaro's sb-components react version"         src="https://img.shields.io/github/package-json/dependency-version/sammaro/sb-components/react" />
-    <img alt="Sammaro's sb-components typescript version"    src="https://img.shields.io/github/package-json/dependency-version/sammaro/sb-components/typescript" />
+    <img alt="Sammaro's sb-components npm"           src="https://img.shields.io/npm/v/mso-my-storybook-components" />
+    <img alt="Sammaro's sb-components license"       src="https://img.shields.io/npm/l/mso-my-storybook-components" />
+    <img alt="Sammaro's sb-components types"         src="https://img.shields.io/npm/types/mso-my-storybook-components" />
+    <img alt="Sammaro's sb-components react version" src="https://img.shields.io/npm/dependency-version/mso-my-storybook-components/peer/react" />
+
   </p>
 </p>
 
